@@ -1,0 +1,6 @@
+git init
+working directory ------> staging  ---- local repo  ------ remote repo
+git status
+git add fileName 
+git add .
+git diff script.js
