@@ -8,6 +8,16 @@ git commit -m "added"
 git branch -M main
 git remote add origin https://github.com/Minskoleopc/tixdo11.git
 git push -u origin main
+git log
+git show HEAD
+
+//-----------------------------
+git checkout HEAD fileName
+git reset HEAD fileName 
+git reset 7SH
+
+
+
 
 
 
