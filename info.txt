@@ -4,3 +4,10 @@ git status
 git add fileName 
 git add .
 git diff script.js
+git commit -m "added"
+git branch -M main
+git remote add origin https://github.com/Minskoleopc/tixdo11.git
+git push -u origin main
+
+
+
