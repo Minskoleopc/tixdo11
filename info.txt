@@ -23,7 +23,13 @@ git branch
 git branch A 
 git checkout A 
 git branch -d A (you should not be on same branch)
-git fetch
+git fetch 
+git checkout
+
+// stash 
+// rebase
+// conflicts
+// cherry pick
 
 
 
